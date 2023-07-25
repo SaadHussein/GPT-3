@@ -15,7 +15,7 @@ const Menu = () => (
       <a href="#possibility">Open AI</a>
     </p>
     <p>
-      <a href="#features">Case Studies</a>
+      <a href="#cta">Case Studies</a>
     </p>
     <p>
       <a href="#blog">Library</a>
